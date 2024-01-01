@@ -9,7 +9,7 @@ function TopNav() {
   };
 
   return (
-    <div className="navbar h-10 shadow-md shadow-blue-200">
+<div className="navbar h-10 shadow-md shadow-blue-200 bg-gradient-to-r from-[#0382BB] to-[#00BADB]">
       <div className="flex-1 h-10">
         <Link to={"/"} className="text-success mx-6 text-xl font-bold">
           E R P
